@@ -1,0 +1,55 @@
+body{
+    background-color: black !important;
+}
+.contenedor{
+    background-color: lavenderblush;
+   position: absolute;
+    top: 5px;
+    bottom: 5px;
+    left: 30%;
+    right: 30%;
+    padding-top: 5%;
+}
+.tit{
+    font-size: small;
+    text-align:center;
+    font-style: oblique;
+}
+.crud-title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ver{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+.art1{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+input{
+    width: 100%;
+}
+.art2{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 10%;
+}
+.crud-table{
+    width: 100%;
+}
+.edit{
+    background-color:lavender;
+    color: black;
+}
+.edit:hover{
+    background-color: lavenderblush;
+}
+.delete{
+    background-color: lavender;
+}
+.delete:hover{
+    background-color: lavenderblush;
+}
+.enviar{
+    background-color: lightpink;
+}
