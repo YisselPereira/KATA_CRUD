@@ -1,19 +1,19 @@
 {
   "videojuegos": [
     {
-      "nombre": "Assassin ",
-      "desarrollador": "Creed 5x",
-      "id": 1
-    },
-    {
-      "nombre": "Sims ",
-      "desarrollador": "4",
+      "nombre": "Sims4",
+      "desarrollador": "EA",
       "id": 2
     },
     {
       "nombre": "Fall Guys",
-      "desarrollador": "Ubisoft",
+      "desarrollador": "Mediatonic",
       "id": 3
+    },
+    {
+      "nombre": "Assassin Creed",
+      "desarrollador": "Ubisoft",
+      "id": 4
     }
   ],
   "series": [
